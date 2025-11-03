@@ -1,0 +1,5 @@
+{
+  "name": "IndieFlix Studio",
+  "description": "A 'mini-Netflix' style web app to browse short films and animations, and use AI to generate new movie ideas.",
+  "requestFramePermissions": []
+}
